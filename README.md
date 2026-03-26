@@ -122,7 +122,7 @@ if name:
 
 ---
 ## screenshots of the app
-C:\Users\KEN16877\Documents\GENAI\Project\Streamlit-Python-\Screenshot .jpg
+![alt text](image.png)
 
 ##  AI Prompt Documentation (Learning Process)
 
@@ -168,17 +168,12 @@ streamlit-toolkit/
 │── README.md
 ```
 
---
-
-
----
 
 ##  References
 
 - ChatGpt
 - Claude AI
 - Gemini
-- 
 
 ---
 
